@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.inicio{
+    background-image: url(../imagenes/inicio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bajar{
+    margin-top: 20%;
+    
+}
